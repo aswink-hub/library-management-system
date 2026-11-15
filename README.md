@@ -1,5 +1,7 @@
 # Library Management System
 
+**Student:** K. Aswin | **Register No.:** 2503917720521013 | **Course:** B.Tech | **Subject:** Software Engineering
+
 A command-line Library Management System built with **Python 3** and **SQLite**. It lets a librarian manage books and members, issue and return books, track due dates and calculate late fines.
 
 ## Problem Statement and Objectives
@@ -93,7 +95,7 @@ Manual testing of the CLI menu with valid and invalid input was also performed.
 
 | Name | Register No. | Contribution |
 |---|---|---|
-| _Your Name_ | _Your Register No._ | Complete design, implementation, testing, documentation (individual project) |
+| K. Aswin | 2503917720521013 | Complete design, implementation, testing, Git workflow and documentation (individual project) |
 
 ## Known Limitations and Future Enhancements
 
