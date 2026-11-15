@@ -40,7 +40,7 @@ A command-line Library Management System built with **Python 3** and **SQLite**.
 2. Install Git: https://git-scm.com/
 3. Clone the repository:
    ```
-   git clone https://github.com/<your-username>/library-management-system.git
+   git clone https://github.com/aswink-hub/library-management-system.git
    cd library-management-system
    ```
 No third-party packages are required, so there is nothing else to install.
